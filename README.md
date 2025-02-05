@@ -62,6 +62,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -72,4 +73,12 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

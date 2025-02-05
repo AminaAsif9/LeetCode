@@ -12,6 +12,7 @@ Collection of LeetCode challenges!
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/AminaAsif9/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AminaAsif9/LeetCode/tree/master/2383-add-two-integers) |
@@ -202,4 +203,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/AminaAsif9/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->

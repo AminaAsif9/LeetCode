@@ -64,6 +64,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -79,8 +80,21 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

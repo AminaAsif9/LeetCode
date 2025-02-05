@@ -6,6 +6,7 @@ Collection of LeetCode challenges!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AminaAsif9/LeetCode/tree/master/2383-add-two-integers) |
@@ -43,4 +44,12 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

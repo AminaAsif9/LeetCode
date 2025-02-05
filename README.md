@@ -30,6 +30,7 @@ Collection of LeetCode challenges!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AminaAsif9/LeetCode/tree/master/0027-remove-element) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/AminaAsif9/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |

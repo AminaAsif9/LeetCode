@@ -77,6 +77,7 @@ Collection of LeetCode challenges!
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
@@ -93,6 +94,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |

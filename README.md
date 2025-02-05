@@ -38,6 +38,7 @@ Collection of LeetCode challenges!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AminaAsif9/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AminaAsif9/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String
@@ -45,6 +46,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AminaAsif9/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |

@@ -16,4 +16,12 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0953-reverse-only-letters) |
+## String
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->

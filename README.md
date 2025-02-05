@@ -46,6 +46,7 @@ Collection of LeetCode challenges!
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -102,6 +103,7 @@ Collection of LeetCode challenges!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -172,4 +174,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->

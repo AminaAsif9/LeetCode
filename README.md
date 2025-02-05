@@ -17,6 +17,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Bit Manipulation
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode challenges!
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |

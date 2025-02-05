@@ -145,6 +145,7 @@ Collection of LeetCode challenges!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -162,4 +164,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

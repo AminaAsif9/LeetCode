@@ -79,6 +79,7 @@ Collection of LeetCode challenges!
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -119,4 +120,5 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->

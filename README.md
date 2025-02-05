@@ -7,6 +7,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
@@ -84,6 +85,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AminaAsif9/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
@@ -155,4 +157,8 @@ Collection of LeetCode challenges!
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

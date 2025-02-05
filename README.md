@@ -21,6 +21,7 @@ Collection of LeetCode challenges!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
@@ -71,6 +72,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |

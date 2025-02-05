@@ -7,12 +7,14 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AminaAsif9/LeetCode/tree/master/2383-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Bit Manipulation
 |  |
@@ -25,6 +27,7 @@ Collection of LeetCode challenges!
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Tree
 |  |

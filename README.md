@@ -19,6 +19,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -35,6 +36,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AminaAsif9/LeetCode/tree/master/0027-remove-element) |
+| [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
@@ -43,6 +45,7 @@ Collection of LeetCode challenges!
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -163,6 +166,7 @@ Collection of LeetCode challenges!
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |

@@ -49,6 +49,7 @@ Collection of LeetCode challenges!
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -113,6 +114,7 @@ Collection of LeetCode challenges!
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table

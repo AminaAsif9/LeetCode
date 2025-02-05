@@ -26,6 +26,7 @@ Collection of LeetCode challenges!
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode challenges!
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
@@ -100,6 +102,7 @@ Collection of LeetCode challenges!
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +139,5 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

@@ -123,6 +123,7 @@ Collection of LeetCode challenges!
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -196,6 +197,7 @@ Collection of LeetCode challenges!
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -216,4 +218,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AminaAsif9/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

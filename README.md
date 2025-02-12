@@ -56,6 +56,7 @@ Collection of LeetCode challenges!
 | [0008-string-to-integer-atoi](https://github.com/AminaAsif9/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AminaAsif9/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AminaAsif9/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -145,6 +146,7 @@ Collection of LeetCode challenges!
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AminaAsif9/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -165,6 +167,7 @@ Collection of LeetCode challenges!
 | [0088-merge-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |

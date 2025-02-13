@@ -27,6 +27,7 @@ Collection of LeetCode challenges!
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode challenges!
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode challenges!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |

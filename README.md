@@ -191,6 +191,7 @@ Collection of LeetCode challenges!
 | [0035-search-insert-position](https://github.com/AminaAsif9/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/AminaAsif9/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 ## Queue
 |  |
@@ -236,4 +237,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AminaAsif9/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

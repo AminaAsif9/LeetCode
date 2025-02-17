@@ -48,6 +48,7 @@ Collection of LeetCode challenges!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AminaAsif9/LeetCode/tree/master/0344-reverse-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -82,6 +83,7 @@ Collection of LeetCode challenges!
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/AminaAsif9/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -89,18 +91,21 @@ Collection of LeetCode challenges!
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/AminaAsif9/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +162,7 @@ Collection of LeetCode challenges!
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AminaAsif9/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -241,4 +247,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AminaAsif9/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->

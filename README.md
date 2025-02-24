@@ -112,6 +112,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AminaAsif9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -119,6 +120,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AminaAsif9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |

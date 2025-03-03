@@ -10,6 +10,7 @@ Collection of LeetCode challenges!
 | [0009-palindrome-number](https://github.com/AminaAsif9/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AminaAsif9/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -22,6 +23,7 @@ Collection of LeetCode challenges!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -33,6 +35,7 @@ Collection of LeetCode challenges!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
@@ -63,6 +66,7 @@ Collection of LeetCode challenges!
 | [0008-string-to-integer-atoi](https://github.com/AminaAsif9/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AminaAsif9/LeetCode/tree/master/0344-reverse-string) |

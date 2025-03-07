@@ -144,6 +144,7 @@ Collection of LeetCode challenges!
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
@@ -170,6 +171,7 @@ Collection of LeetCode challenges!
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AminaAsif9/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
@@ -182,6 +184,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -193,6 +196,7 @@ Collection of LeetCode challenges!
 | [0018-4sum](https://github.com/AminaAsif9/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AminaAsif9/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
@@ -224,6 +228,7 @@ Collection of LeetCode challenges!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AminaAsif9/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |

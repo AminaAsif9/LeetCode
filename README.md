@@ -54,6 +54,7 @@ Collection of LeetCode challenges!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AminaAsif9/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-backspace-string-compare](https://github.com/AminaAsif9/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -70,6 +71,7 @@ Collection of LeetCode challenges!
 | [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AminaAsif9/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AminaAsif9/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |

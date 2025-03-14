@@ -160,6 +160,7 @@ Collection of LeetCode challenges!
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/AminaAsif9/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
+| [1241-decompress-run-length-encoded-list](https://github.com/AminaAsif9/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/AminaAsif9/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |

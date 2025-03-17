@@ -98,6 +98,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/AminaAsif9/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -106,6 +107,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/AminaAsif9/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -113,6 +115,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AminaAsif9/LeetCode/tree/master/0733-flood-fill) |

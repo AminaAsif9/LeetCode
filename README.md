@@ -127,6 +127,7 @@ Collection of LeetCode challenges!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AminaAsif9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AminaAsif9/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/AminaAsif9/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode challenges!
 | [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/AminaAsif9/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1036-rotting-oranges](https://github.com/AminaAsif9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AminaAsif9/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -274,6 +276,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/AminaAsif9/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/AminaAsif9/LeetCode/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |

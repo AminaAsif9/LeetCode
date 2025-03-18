@@ -11,6 +11,7 @@ Collection of LeetCode challenges!
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AminaAsif9/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -214,6 +215,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AminaAsif9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -311,4 +313,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AminaAsif9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

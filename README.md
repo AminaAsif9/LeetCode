@@ -45,6 +45,7 @@ Collection of LeetCode challenges!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AminaAsif9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AminaAsif9/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AminaAsif9/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -152,6 +153,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AminaAsif9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AminaAsif9/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AminaAsif9/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -298,6 +300,7 @@ Collection of LeetCode challenges!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AminaAsif9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/AminaAsif9/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AminaAsif9/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## Monotonic Stack

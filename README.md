@@ -118,6 +118,7 @@ Collection of LeetCode challenges!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -127,6 +128,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AminaAsif9/LeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -171,6 +173,7 @@ Collection of LeetCode challenges!
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AminaAsif9/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AminaAsif9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/0228-summary-ranges) |
@@ -289,6 +292,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AminaAsif9/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AminaAsif9/LeetCode/tree/master/1036-rotting-oranges) |
 ## Design
@@ -331,4 +335,8 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

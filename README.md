@@ -12,6 +12,7 @@ Collection of LeetCode challenges!
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AminaAsif9/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AminaAsif9/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -171,6 +172,7 @@ Collection of LeetCode challenges!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AminaAsif9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AminaAsif9/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AminaAsif9/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
@@ -280,6 +282,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AminaAsif9/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AminaAsif9/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |

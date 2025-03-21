@@ -38,6 +38,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AminaAsif9/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AminaAsif9/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AminaAsif9/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
@@ -168,6 +169,7 @@ Collection of LeetCode challenges!
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/AminaAsif9/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AminaAsif9/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AminaAsif9/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AminaAsif9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -336,6 +338,7 @@ Collection of LeetCode challenges!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AminaAsif9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/AminaAsif9/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AminaAsif9/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AminaAsif9/LeetCode/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |

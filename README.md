@@ -11,6 +11,7 @@ Collection of LeetCode challenges!
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AminaAsif9/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AminaAsif9/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AminaAsif9/LeetCode/tree/master/0202-happy-number) |
@@ -262,6 +263,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AminaAsif9/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AminaAsif9/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AminaAsif9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AminaAsif9/LeetCode/tree/master/0278-first-bad-version) |

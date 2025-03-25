@@ -197,6 +197,7 @@ Collection of LeetCode challenges!
 | [1036-rotting-oranges](https://github.com/AminaAsif9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AminaAsif9/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1293-three-consecutive-odds](https://github.com/AminaAsif9/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/AminaAsif9/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/AminaAsif9/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |

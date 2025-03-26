@@ -93,6 +93,7 @@ Collection of LeetCode challenges!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/AminaAsif9/LeetCode/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/AminaAsif9/LeetCode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/AminaAsif9/LeetCode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/AminaAsif9/LeetCode/tree/master/1894-merge-strings-alternately) |

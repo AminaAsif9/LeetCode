@@ -10,6 +10,7 @@ Collection of LeetCode challenges!
 | [0009-palindrome-number](https://github.com/AminaAsif9/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AminaAsif9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AminaAsif9/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AminaAsif9/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AminaAsif9/LeetCode/tree/master/0070-climbing-stairs) |
@@ -173,6 +174,7 @@ Collection of LeetCode challenges!
 | [0048-rotate-image](https://github.com/AminaAsif9/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/AminaAsif9/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/AminaAsif9/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AminaAsif9/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AminaAsif9/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AminaAsif9/LeetCode/tree/master/0088-merge-sorted-array) |

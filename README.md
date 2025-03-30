@@ -207,6 +207,7 @@ Collection of LeetCode challenges!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AminaAsif9/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
@@ -262,6 +263,7 @@ Collection of LeetCode challenges!
 | [0268-missing-number](https://github.com/AminaAsif9/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AminaAsif9/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/AminaAsif9/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AminaAsif9/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Collection of LeetCode challenges!
 | [0374-guess-number-higher-or-lower](https://github.com/AminaAsif9/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AminaAsif9/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AminaAsif9/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |

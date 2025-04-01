@@ -80,6 +80,7 @@ Collection of LeetCode challenges!
 | [0014-longest-common-prefix](https://github.com/AminaAsif9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AminaAsif9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/AminaAsif9/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AminaAsif9/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AminaAsif9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AminaAsif9/LeetCode/tree/master/0242-valid-anagram) |

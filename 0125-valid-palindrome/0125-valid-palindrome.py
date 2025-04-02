@@ -3,7 +3,8 @@ class Solution:
         l=0
         r=len(s)-1
         while l<r:
-            if not s[l].isalnum():
+        # isalnum() checks if all the characters in a given string are alphanumeric
+            if not s[l].isalnum(): 
                 l+=1
             elif not s[r].isalnum():
                 r-=1

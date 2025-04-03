@@ -3,15 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left, i, right = 0, 0, len(nums) - 1
+        # Two pointers
+        low, mid, high = 0, 0, len(nums) - 1 # third is used for comparison
 
-        while i <= right:
-            if nums[i] == 0:
-                nums[i], nums[left] = nums[left], nums[i]
-                left += 1
-                i += 1
-            elif nums[i] == 1:
-                i += 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[mid], nums[low] = nums[low], nums[mid]
+                low += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1
             else:
-                nums[i], nums[right] = nums[right], nums[i]
-                right -= 1
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
+
+                

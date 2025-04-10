@@ -21,6 +21,7 @@ Collection of LeetCode challenges!
 | [0412-fizz-buzz](https://github.com/AminaAsif9/LeetCode/tree/master/0412-fizz-buzz) |
 | [1148-adding-two-negabinary-numbers](https://github.com/AminaAsif9/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AminaAsif9/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AminaAsif9/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AminaAsif9/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AminaAsif9/LeetCode/tree/master/2383-add-two-integers) |

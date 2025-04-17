@@ -7,7 +7,7 @@ class Solution:
         length = 0
 
         for i in s[::-1]:
-            if i == " ":
+            if i == " ": # if there is space
                 if length >= 1:
                     break
             else: 

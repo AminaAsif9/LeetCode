@@ -10,7 +10,7 @@ class Solution:
             if i == " ":
                 if length >= 1:
                     break
-            else:
+            else: 
                 length += 1
 
         return length

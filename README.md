@@ -74,6 +74,7 @@ Collection of LeetCode challenges!
 | [0917-boats-to-save-people](https://github.com/AminaAsif9/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/AminaAsif9/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/AminaAsif9/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AminaAsif9/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AminaAsif9/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
@@ -219,6 +220,7 @@ Collection of LeetCode challenges!
 | [1651-shuffle-string](https://github.com/AminaAsif9/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AminaAsif9/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2058-concatenation-of-array](https://github.com/AminaAsif9/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AminaAsif9/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AminaAsif9/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -299,6 +301,7 @@ Collection of LeetCode challenges!
 | [0374-guess-number-higher-or-lower](https://github.com/AminaAsif9/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AminaAsif9/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AminaAsif9/LeetCode/tree/master/0792-binary-search) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AminaAsif9/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
@@ -327,6 +330,7 @@ Collection of LeetCode challenges!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AminaAsif9/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/AminaAsif9/LeetCode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
@@ -355,6 +359,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AminaAsif9/LeetCode/tree/master/0739-daily-temperatures) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Interactive
 |  |
 | ------- |

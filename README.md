@@ -37,6 +37,7 @@ Collection of LeetCode challenges!
 | [2265-partition-array-according-to-given-pivot](https://github.com/AminaAsif9/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AminaAsif9/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AminaAsif9/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/AminaAsif9/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -111,6 +112,7 @@ Collection of LeetCode challenges!
 | [2427-first-letter-to-appear-twice](https://github.com/AminaAsif9/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AminaAsif9/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AminaAsif9/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/AminaAsif9/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
@@ -334,6 +336,7 @@ Collection of LeetCode challenges!
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AminaAsif9/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AminaAsif9/LeetCode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2470-removing-stars-from-a-string](https://github.com/AminaAsif9/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AminaAsif9/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AminaAsif9/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |

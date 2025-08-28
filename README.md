@@ -120,6 +120,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -130,6 +131,7 @@ Collection of LeetCode challenges!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AminaAsif9/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -138,6 +140,7 @@ Collection of LeetCode challenges!
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/AminaAsif9/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AminaAsif9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -325,6 +328,7 @@ Collection of LeetCode challenges!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AminaAsif9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AminaAsif9/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AminaAsif9/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AminaAsif9/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AminaAsif9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
